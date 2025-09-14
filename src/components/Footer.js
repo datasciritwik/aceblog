@@ -26,7 +26,7 @@ const Footer = () => (
         <div className="flex flex-col md:flex-row justify-between items-center gap-1">
           {/* Copyright */}
           <div className="text-xs opacity-90 text-center md:text-left">
-            &copy; {new Date().getFullYear()} AceBlog. All rights reserved.
+            &copy; {new Date().getFullYear()} AcesphereAI Blog. All rights reserved.
           </div>
 
           {/* Social Links */}

@@ -4,7 +4,7 @@ import MarkdownRenderer from "../components/MarkdownRenderer";
 const BlogLayout = ({ posts }) => {
   return (
     <div className="blog-layout">
-      <h1>Blog Posts</h1>
+      <h1>AcesphereAI Blog Posts</h1>
       <ul className="post-list">
         {posts.map((post) => (
           <li key={post.id} className="post-item">

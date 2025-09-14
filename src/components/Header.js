@@ -27,7 +27,7 @@ const Header = () => (
       alt="AceSphere Logo"
       className="mx-auto mb-1 w-12 h-12"
     />
-    <h1 className="text-xl font-bold">AceBlog</h1>
+  <h1 className="text-xl font-bold">AcesphereAI Blog</h1>
     <p className="text-xs mt-1">Your Markdown-powered blog</p>
   </header>
 );

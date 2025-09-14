@@ -7,7 +7,7 @@ import MarkdownRenderer from "../components/MarkdownRenderer";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-const DEFAULT_MARKDOWN = `# Welcome to AceBlog\n\nNo posts found.\n\n- Check your internet connection.\n- Or add some posts to Firebase!`;
+const DEFAULT_MARKDOWN = `# Welcome to AcesphereAI Blog\n\nNo posts found.\n\n- Check your internet connection.\n- Or add some posts to Firebase!`;
 
 export default function Home() {
   const [posts, setPosts] = useState([]);
