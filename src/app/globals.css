@@ -59,11 +59,6 @@ body {
   transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
 }
 
-/* Markdown styling */
-.markdown-container {
-  @apply prose prose-lg max-w-none;
-}
-
 .markdown-container h1 {
   @apply text-3xl font-bold mb-6;
   background: linear-gradient(45deg, var(--deep-navy), var(--violet-indigo));
