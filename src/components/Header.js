@@ -1,7 +1,7 @@
 import React from "react";
 
 const Header = () => (
-  <header className="w-full py-2 bg-[#fffbe8] text-[#1e2a6f] text-left shadow flex items-center">
+  <header className="w-full py-2 bg-[#fffbe8] text-[#000] text-left shadow flex items-center">
     {/* Wave SVG background */}
     <svg
       className="w-full h-12 absolute left-0 top-0"
@@ -31,7 +31,7 @@ const Header = () => (
       />
       <div className="flex flex-col">
         <h1 className="text-xl font-bold">AcesphereAI Blog</h1>
-        <p className="text-xs mt-1">Your Markdown-powered blog</p>
+        <p className="text-xs mt-1">AI • ML • Frontend • Backend • Future of Tech</p>
       </div>
     </div>
   </header>
