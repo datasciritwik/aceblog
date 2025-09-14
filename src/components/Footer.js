@@ -4,7 +4,7 @@ const Footer = () => (
   <footer className="w-full bg-gradient-to-r from-[#1e2a6f] to-[#7b61ff] text-white mt-auto text-xs">
     {/* Wave decoration at top */}
     <svg
-      className="w-full h-4"
+  className="w-full h-6"
       viewBox="0 0 1200 24"
       preserveAspectRatio="none"
     >
